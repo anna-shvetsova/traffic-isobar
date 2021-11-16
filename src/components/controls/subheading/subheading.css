@@ -1,0 +1,13 @@
+h3.ti-subheading  {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0 0 27px 0;
+    text-align: center;
+    color: white;
+}
+
+@media (min-width: 1200px) {
+    h3.ti-subheading {
+        text-align: left;
+    }    
+}

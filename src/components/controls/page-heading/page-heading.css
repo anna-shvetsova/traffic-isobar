@@ -1,0 +1,32 @@
+.ti-page-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 55px;
+}
+
+.ti-page-heading h2 {
+    margin: 0;
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    color: #F44A1E;
+}
+
+.ti-page-heading hr {
+    width: 156px;
+    height: 4px;
+    background-color: #F44A1E;
+    border: none;
+}
+
+.ti-page-heading hr:first-child {
+    margin-left: 0;
+    margin-right: 28px;
+}
+
+.ti-page-heading hr:last-child {
+    margin-left: 28px;
+    margin-right: 0;
+}

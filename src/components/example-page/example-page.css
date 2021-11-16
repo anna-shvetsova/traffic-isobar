@@ -1,0 +1,34 @@
+.ti-example-page .ti-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ti-example-page .ti-card .ti-image-wrap {
+    position: relative;
+    margin-bottom: 59px;
+    width: 258px;
+    height: 258px;
+}
+
+.ti-example-page .ti-card .ti-image-wrap img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.ti-example-page .ti-card .ti-image-wrap span {
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+
+@media (min-width: 1200px) {
+    .ti-example-page .ti-card {
+        align-items: flex-start;
+    }
+}

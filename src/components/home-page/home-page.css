@@ -1,0 +1,47 @@
+.ti-home-page .ti-card {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.ti-home-page .ti-card-column1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+
+.ti-home-page .ti-card-column2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    width: 50%;
+}
+
+.ti-home-page .ti-card-img {
+    width: 300px;
+    height: 300px;
+}
+
+@media (min-width: 600px) {
+    .ti-home-page .ti-card-img {
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .ti-home-page .ti-card {
+        flex-direction: row;
+    }
+
+    .ti-home-page .ti-card-column1 {
+        align-items: flex-start;
+        width: 50%;
+    }
+
+    .ti-home-page .ti-card-column2 {
+        margin-bottom: 0;
+    }
+
+}
