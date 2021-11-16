@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/traffic-isobar/static/css/main.9ee1ba47.chunk.css",
+    "main.js": "/traffic-isobar/static/js/main.d9fcd5de.chunk.js",
+    "main.js.map": "/traffic-isobar/static/js/main.d9fcd5de.chunk.js.map",
+    "runtime-main.js": "/traffic-isobar/static/js/runtime-main.8b64c0d4.js",
+    "runtime-main.js.map": "/traffic-isobar/static/js/runtime-main.8b64c0d4.js.map",
+    "static/js/2.32c9d9da.chunk.js": "/traffic-isobar/static/js/2.32c9d9da.chunk.js",
+    "static/js/2.32c9d9da.chunk.js.map": "/traffic-isobar/static/js/2.32c9d9da.chunk.js.map",
+    "index.html": "/traffic-isobar/index.html",
+    "static/css/main.9ee1ba47.chunk.css.map": "/traffic-isobar/static/css/main.9ee1ba47.chunk.css.map",
+    "static/js/2.32c9d9da.chunk.js.LICENSE.txt": "/traffic-isobar/static/js/2.32c9d9da.chunk.js.LICENSE.txt",
+    "static/media/cat.1aef445d.jpg": "/traffic-isobar/static/media/cat.1aef445d.jpg",
+    "static/media/logo.59738642.svg": "/traffic-isobar/static/media/logo.59738642.svg",
+    "static/media/photo.7db83309.png": "/traffic-isobar/static/media/photo.7db83309.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b64c0d4.js",
+    "static/js/2.32c9d9da.chunk.js",
+    "static/css/main.9ee1ba47.chunk.css",
+    "static/js/main.d9fcd5de.chunk.js"
+  ]
+}
